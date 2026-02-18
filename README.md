@@ -75,6 +75,7 @@ During training, the program prints:
 
 
 
-Author
+## Author
 
 Kamil Staniszewski
+
