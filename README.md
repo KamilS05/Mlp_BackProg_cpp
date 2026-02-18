@@ -10,20 +10,20 @@ The project was developed as part of an academic assignment and is intended for 
 
 ## Project Structure
 
+```text
 .
 ├── Makefile
 ├── README.md
 ├── la1.cpp
 ├── imc/
-│ ├── MultilayerPerceptron.cpp
-│ ├── MultilayerPerceptron.h
-│ ├── util.cpp
-│ └── util.h
-├── dat/
-│ ├── train_xor.dat
-│ └── test_xor.dat
-
----
+│   ├── MultilayerPerceptron.cpp
+│   ├── MultilayerPerceptron.h
+│   ├── util.cpp
+│   └── util.h
+└── dat/
+    ├── train_xor.dat
+    └── test_xor.dat
+```
 
 
 ## Build
@@ -76,4 +76,5 @@ During training, the program prints:
 
 
 Author
+
 Kamil Staniszewski
