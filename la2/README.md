@@ -17,7 +17,7 @@ The project was developed for educational purposes.
 
 ## Project Structure
 
-
+```text
 .
 ├── Makefile
 ├── README.md
@@ -35,7 +35,7 @@ The project was developed for educational purposes.
 │ ├── train_quake.dat
 │ └── test_quake.dat
 
-
+```
 ---
 
 ## Build
