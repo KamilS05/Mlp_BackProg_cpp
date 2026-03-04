@@ -4,7 +4,7 @@
 This project is an implementation of a **Multilayer Perceptron (MLP)** neural network written in C++.  
 The network is trained using **online backpropagation with momentum** and can be configured from the command line.
 
-The project was developed as part of an academic assignment and is intended for educational purposes.
+The project was developed for educational purposes.
 
 ---
 
